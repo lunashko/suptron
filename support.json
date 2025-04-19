@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Next.js",
+    "icon": "⚡",
+    "color": "cyan",
+    "templates": [
+      {
+        "id": "nextjs-ts-tailwind",
+        "name": "Next.js + TypeScript + TailwindCSS",
+        "description": "Full-featured Next.js setup with TypeScript and TailwindCSS",
+        "hasTypeScript": true,
+        "hasTailwind": true
+      },
+      {
+        "id": "nextjs-js-tailwind",
+        "name": "Next.js + JavaScript + TailwindCSS",
+        "description": "Next.js with JavaScript and TailwindCSS",
+        "hasTypeScript": false,
+        "hasTailwind": true
+      },
+      {
+        "id": "nextjs-vanilla",
+        "name": "Next.js Vanilla",
+        "description": "Basic Next.js setup with standard CSS and JavaScript",
+        "hasTypeScript": false,
+        "hasTailwind": false
+      }
+    ]
+  },
+  {
+    "name": "React",
+    "icon": "⚛ ",
+    "color": "blue",
+    "templates": [
+      {
+        "id": "react-ts-tailwind",
+        "name": "React + TypeScript + TailwindCSS",
+        "description": "React with TypeScript and TailwindCSS",
+        "hasTypeScript": true,
+        "hasTailwind": true
+      },
+      {
+        "id": "react-js-tailwind",
+        "name": "React + JavaScript + TailwindCSS",
+        "description": "React with JavaScript and TailwindCSS",
+        "hasTypeScript": false,
+        "hasTailwind": true
+      },
+      {
+        "id": "react-vanilla",
+        "name": "React Vanilla",
+        "description": "Basic React setup with standard CSS and JavaScript",
+        "hasTypeScript": false,
+        "hasTailwind": false
+      }
+    ]
+  },
+  {
+    "name": "Vue",
+    "icon": "🔥",
+    "color": "green",
+    "templates": [
+      {
+        "id": "vue-ts-tailwind",
+        "name": "Vue + TypeScript + TailwindCSS",
+        "description": "Vue with TypeScript and TailwindCSS",
+        "hasTypeScript": true,
+        "hasTailwind": true
+      },
+      {
+        "id": "vue-js-tailwind",
+        "name": "Vue + JavaScript + TailwindCSS",
+        "description": "Vue with JavaScript and TailwindCSS",
+        "hasTypeScript": false,
+        "hasTailwind": true
+      },
+      {
+        "id": "vue-vanilla",
+        "name": "Vue Vanilla",
+        "description": "Basic Vue setup with standard CSS and JavaScript",
+        "hasTypeScript": false,
+        "hasTailwind": false
+      }
+    ]
+  }
+]
