@@ -9,21 +9,24 @@
         "name": "Next.js + TypeScript + TailwindCSS",
         "description": "Full-featured Next.js setup with TypeScript and TailwindCSS",
         "hasTypeScript": true,
-        "hasTailwind": true
+        "hasTailwind": true,
+        "url": "https://github.com/lunashko/suptron/raw/refs/heads/main/templates/nextjs/nextjs-ts-tailwind.zip"
       },
       {
         "id": "nextjs-js-tailwind",
         "name": "Next.js + JavaScript + TailwindCSS",
         "description": "Next.js with JavaScript and TailwindCSS",
         "hasTypeScript": false,
-        "hasTailwind": true
+        "hasTailwind": true,
+        "url": "https://github.com/lunashko/suptron/raw/refs/heads/main/templates/nextjs/nextjs-js-tailwind.zip"
       },
       {
         "id": "nextjs-vanilla",
         "name": "Next.js Vanilla",
         "description": "Basic Next.js setup with standard CSS and JavaScript",
         "hasTypeScript": false,
-        "hasTailwind": false
+        "hasTailwind": false,
+        "url": "https://github.com/lunashko/suptron/raw/refs/heads/main/templates/nextjs/nextjs-vanilla.zip"
       }
     ]
   },
